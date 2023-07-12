@@ -2,7 +2,6 @@
 - 👀 I’m interested in paleobiology, macroevolution, and phylogenetics ...
 - 🌱 I’m currently learning a lot of new things...
 - 💞️ I’m looking to collaborate on ...who knows
-- 📫 How to reach me : rastodonprocurvidens@gmail.com
 
 <!---
 Rastojohn/Rastojohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
